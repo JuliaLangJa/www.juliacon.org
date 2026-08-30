@@ -45,4 +45,4 @@ Kashiwanoha-campus station and the neighbouring Kashiwa station offer a number o
 
 ## Accessibility
 
-If you have specific accessibility requirements, please get in touch and we will do our best to accommodate them. A contact address will be announced here shortly.
+If you have specific accessibility requirements, please contact [juliacon-tokyo@googlegroups.com](mailto:juliacon-tokyo@googlegroups.com) and we will do our best to accommodate them.

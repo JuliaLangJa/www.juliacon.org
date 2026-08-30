@@ -120,6 +120,10 @@ All attendees, speakers and organizers are asked to follow the [JuliaCon Code of
 Tickets, the call for proposals and the list of speakers will be announced on this page and on the [Julia Discourse](https://discourse.julialang.org/).
 \end{box}
 
+\begin{box}{title="Contact", color="purple"}
+For questions about JuliaCon Local Tokyo 2026, please contact [juliacon-tokyo@googlegroups.com](mailto:juliacon-tokyo@googlegroups.com).
+\end{box}
+
 ~~~
 <!-- END of CONTAINER + MASONRY -->
   </div>
